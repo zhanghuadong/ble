@@ -1,4 +1,7 @@
-        //下面是操作
+//下面是操作
+
+provide ble  library to connect and manage bluetooth
+
 //        mBleService.initialize();//Ble初始化操作
 //        mBleService.enableBluetooth(boolean enable);//打开或关闭蓝牙
 //        mBleService.scanLeDevice(boolean enable, long scanPeriod);//启动或停止扫描Ble设备
